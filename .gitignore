@@ -1,0 +1,55 @@
+node_modules/
+.expo/
+.expo-shared/
+dist/
+.web-build/
+.env
+.DS_Store
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.log
+.eslintcache
+
+# OS
+Thumbs.db
+
+# Expo/Metro caches
+.expo/web-build/
+.expo-packager-cache-*
+.expo/packager-info.json
+.expo/settings.json
+.metro/
+metro-cache/
+
+# TypeScript
+*.tsbuildinfo
+
+# Editors/IDE
+.vscode/
+.idea/
+
+# Android/iOS build artifacts (RN/Expo EAS)
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/build/
+android/.cxx/
+ios/Pods/
+ios/build/
+ios/DerivedData/
+
+# Package managers / monorepo tools
+.pnpm-store/
+.turbo/
+
+# Env variants
+.env.local
+.env.*.local
+
+# Keystores
+*.keystore
+*.jks
